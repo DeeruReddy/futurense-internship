@@ -33,3 +33,8 @@ r = radius of circle
 
 
 4. Armstrong Number: An Armstrong number is a special kind of number in math. It's a number that equals the sum of its digits, each raised to a power.
+
+
+
+
+5. Fibonacci numbers: The sequence follows the rule that each number is equal to the sum of the preceding two numbers.
