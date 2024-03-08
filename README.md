@@ -23,4 +23,8 @@ List: Mutable (can be modified after creation).
 
 Tuple: Immutable (cannot be modified after creation).
 
+And in the codes that I have uploaded contains all the manipulations that can be done to lists and tuples where they can be modified from one to another using Python.
+
+HOPE THIS HELPS!😁
+
 
