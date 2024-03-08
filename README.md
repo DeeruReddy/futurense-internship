@@ -1,4 +1,5 @@
-# my_first_codes
+# These are the basics
+
 
 1. Simple Interest (SI) = (p * r * t)/100
 
