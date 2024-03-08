@@ -1,5 +1,7 @@
 # Futerense Internship By JAIN UNIVERSITY (WEEK2)
 
+![image](https://github.com/DeeruReddy/futurense-internship/assets/115466624/4624b509-e3c7-4366-974b-15cc1baec6d7)
+
 
 List:
 In Python, a list is a mutable, ordered collection of elements. Mutable means you can modify the content of a list after it's been created, and ordered means the elements have a specific order.
