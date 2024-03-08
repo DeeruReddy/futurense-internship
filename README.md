@@ -1,6 +1,17 @@
 # Futerense Internship By JAIN UNIVERSITY (WEEK2)
 
 
+List:
+In Python, a list is a mutable, ordered collection of elements. Mutable means you can modify the content of a list after it's been created, and ordered means the elements have a specific order.
+
+
+Tuple:
+A tuple is similar to a list but is immutable, meaning you cannot change its content after creation. Tuples are also ordered.
+
+
+The main feature that differentiates both lists and tuples are:
+List: Mutable (can be modified after creation).
+Tuple: Immutable (cannot be modified after creation).
 
 
 1. Simple Interest (SI) = (p * r * t)/100
