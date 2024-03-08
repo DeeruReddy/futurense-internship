@@ -18,7 +18,9 @@ A tuple is similar to a list but is immutable, meaning you cannot change its con
 
 
 The main feature that differentiates both lists and tuples are:
+
 List: Mutable (can be modified after creation).
+
 Tuple: Immutable (cannot be modified after creation).
 
 
