@@ -1,4 +1,8 @@
-# These are the basics
+# Futerense Internship Week 2
+
+#Jain University
+
+
 
 
 1. Simple Interest (SI) = (p * r * t)/100
