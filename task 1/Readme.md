@@ -1,6 +1,5 @@
 # Futerense Internship By JAIN UNIVERSITY (WEEK3)
 
-![image](https://github.com/DeeruReddy/futurense-internship/assets/115466624/03d1cb1f-c29a-4b5a-8289-9c62fdbe1b20)
 
 Manipulating tuples poses a challenge due to their immutability; however, despite this constraint, a variety of operations can still be executed on tuples. 
 
