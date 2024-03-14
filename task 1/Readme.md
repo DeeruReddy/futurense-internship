@@ -10,3 +10,5 @@ Despite their immutability, tuples can be leveraged effectively for various comp
 Contained within the uploaded files are processes aimed at determining the average value of tuples and computing the product by multiplying all numbers within a given tuple. These operations showcase the versatility of tuples, even within the realm of immutability, demonstrating their utility in performing essential mathematical computations.
 
 Through these examples, the inherent capabilities of tuples in handling numerical data become evident, underscoring their significance in diverse computational tasks.
+
+Certainly! With the assistance of ChatGPT, tackling this task became more manageable😁. Credit goes to ChatGPT for its invaluable support, enabling me to not only calculate the desired results but also explore additional operations and functionalities related to tuples.
