@@ -40,14 +40,6 @@ The analysis encompasses several aspects of the Netflix dataset, including:
 - Seaborn
 
 
-## Future Work
-
-Potential avenues for further exploration include:
-
-- Sentiment analysis of user reviews.
-- Predictive modeling for recommending new content.
-- Collaborative filtering to enhance user experience.
-
 ## Contributors
 
 - [Deeraj Reddy] - Visit [my github](https://github.com/DeeruReddy) profile to find many other insteresting tools and stuff. Also please feel free to use this analysis of netflix as a tool for projects similar to it. 
