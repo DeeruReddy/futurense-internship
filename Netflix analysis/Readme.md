@@ -1,5 +1,3 @@
-# JAIN UNIVERSITY POWERED BY FUTURENSE TECHNOLOGY
-
 ![image](https://github.com/DeeruReddy/futurense-internship/assets/115466624/341d32f7-7880-42b1-bffb-522804ccab7d)
 
 
