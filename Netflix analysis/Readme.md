@@ -1,6 +1,6 @@
 # JAIN UNIVERSITY POWERED BY FUTURENSE TECHNOLOGY
 
-# NETFLIX DATA ANALYSIS PROJECT
+![image](https://github.com/DeeruReddy/futurense-internship/assets/115466624/341d32f7-7880-42b1-bffb-522804ccab7d)
 
 
 This project involves analyzing data related to Netflix, one of the leading streaming platforms globally. The dataset used contains information about Netflix movies and TV shows, including their titles, directors, cast, release year, duration, and genres.
